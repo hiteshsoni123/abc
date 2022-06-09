@@ -1,0 +1,1 @@
+web: gunicorn Abc.wsgi --log-file -
